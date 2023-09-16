@@ -1,0 +1,20 @@
+.footer{
+    background-color: #2C3E50;
+}
+.icons-cstm{
+    position: relative;
+    bottom: 20px;
+}
+.text-cstm{
+    position: relative;
+    top: 7px;
+}
+.subfooter{
+    background-color: #1A252F;
+}
+.about-cstm{
+    width: 30%;
+}
+.Location{
+    width: 30%;
+}

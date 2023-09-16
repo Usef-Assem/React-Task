@@ -1,0 +1,29 @@
+.welcomePage{
+    height: 100vh;
+    background-color: #1ABC9C;
+}
+.imageWelcome{
+    width: 18%;
+}
+.star-icon1{
+    position: relative;
+}
+.star-icon1::after{
+    content: '';
+    background-color: white;
+    height: 4px;
+    width: 10%;
+    position: absolute;
+    top: 50%;
+    left: 38%;
+}
+
+.star-icon1::before{
+    content: '';
+    background-color: white;
+    height: 4px;
+    width: 10%;
+    position: absolute;
+    top: 50%;
+    right: 38%;
+}
